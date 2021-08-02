@@ -4,7 +4,10 @@ This repository contains the code from the paper "Harmful Algal Bloom Prediction
 In order to make this code run you will have to download and install the neural networks we have considered. 
 
 > Pre-processing data
+내용 추가
 
-### Chlorophyll-a integrated prediction model
+> Chlorophyll-a integrated prediction model
+내용 추가
 
-### Result
+> Result
+내용 
