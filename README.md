@@ -1,1 +1,1 @@
-# Harmful-algal-bloom-prediction-models
+# Harmful Algal Bloom Prediction Models Using Convolutional Neural Network
