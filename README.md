@@ -5,7 +5,7 @@ In order to make this code run you will have to download and install the neural 
 
 > **Data pre-processing**
 
-폴더를 생성한 후에 전처리가 완료된 데이터를 첨부하고, 해당 데이터의 행과 열에 대한 설명을 추가적으로 작성할 예정
+The eight types of water-quality data collected from water-quality monitoring stations operated by the National Institute of Environment Research in South Korea (http://www.koreawqi.go.kr/index_web.jsp) were used. In addition, four types of weather data collected from the ASOSs operated by the Korea Meteorological Administration (https://data.kma.go.kr/data/grnd/selectAsosRltmList.do) were used.
 
 > **Integrated prediction model using convolutional neural network**
 
