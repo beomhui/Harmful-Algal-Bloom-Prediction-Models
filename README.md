@@ -14,6 +14,6 @@ In this study, the eight types of water-quality data collected from water-qualit
 
 > **Chlorophyll-a integrated prediction model**
 
-`Chlorophyll-a integrated prediction model.ipynb` is
+`Chlorophyll-a integrated prediction model.ipynb` is  `Predict chlorophyll-a concentration.ipynb` `Comparison model.ipynb`
 
 
