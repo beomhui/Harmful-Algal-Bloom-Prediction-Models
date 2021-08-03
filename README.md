@@ -5,8 +5,8 @@ In order to make this code run you will have to download and install the neural 
 
 > **Requirements**
 
-Python v3.6.10
-Keras v2.1.5
+> Python v3.6.10
+> Keras v2.1.5
 
 > **Data pre-processing**
 
