@@ -8,10 +8,13 @@ In order to make this code run you will have to download and install the neural 
 * Python v3.6.10
 * Keras v2.1.5
 
-> **Data pre-processing**
+> **Data**
 
+The water-quality data and weather data can be found in data/.
 In this study, the eight types of water-quality data collected from water-quality monitoring stations operated by the National Institute of Environment Research in South Korea (http://www.koreawqi.go.kr/index_web.jsp) were used. In addition, the four types of weather data collected from the ASOSs operated by the Korea Meteorological Administration (https://data.kma.go.kr/data/grnd/selectAsosRltmList.do) were used.
 
-> **Integrated prediction model using convolutional neural network**
+> **Chlorophyll-a integrated prediction model**
+
+
 
 
