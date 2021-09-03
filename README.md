@@ -16,4 +16,7 @@ In this study, the eight types of water-quality data collected from water-qualit
 
 `Chlorophyll-a integrated prediction model.ipynb` creates and trains the integrated prediction model applied a total of eight time-steps. In addition, `Predict chlorophyll-a concentration.ipynb` generates graphs for the prediction and observed values of 29 water-quality monitoring stations. Moreover, `Comparison model.ipynb` creates and trains the LSTM model for comparison. 
 
+> **Result**
+![Figure 4-1](https://user-images.githubusercontent.com/77565332/131963393-8be79613-7310-4e3b-9838-a98e37c708ed.png)
+
 
