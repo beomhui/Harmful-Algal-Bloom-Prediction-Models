@@ -27,5 +27,6 @@ In this study, the eight types of water-quality data collected from water-qualit
 > **Result**
 
 ![Figure 4-1](https://user-images.githubusercontent.com/77565332/131963393-8be79613-7310-4e3b-9838-a98e37c708ed.png)
+Visualized predictions for each monitoring station made by the chlorophyll-a integrated prediction model. Map image is obtained from OpenStreetMap (openstreetmap.org) and licensed under CC-BY-SA (https://www.openstreetmap.org/copyright).
 
 
