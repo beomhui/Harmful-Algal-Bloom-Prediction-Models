@@ -1,6 +1,6 @@
 ### Integrated prediction of harmful algal bloom using CNN deep learning technology
 
-This repository contains the code from the paper "Harmful Algal Bloom Prediction Models Using Convolutional Neural Network", by Donghyun Lee, Beomhui Lee, Sangwon Chae, Sungjun Kwon,  and Sungwon Kang.
+This repository contains the code from the paper "Integrated prediction of harmful algal bloom using CNN deep learning technology", by Donghyun Lee, Beomhui Lee, Sangwon Chae, Sungjun Kwon.
 In order to make this code run you will have to download and install the neural networks we have considered.
 
 <br />
